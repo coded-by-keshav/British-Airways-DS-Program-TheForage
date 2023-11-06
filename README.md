@@ -9,3 +9,5 @@ British Airways Data Science Job Simulation on Forage - November 2023
    behaviour
 
 Course Link: https://www.theforage.com/virtual-internships/prototype/NjynCWzGSaWXQCxSX/Data-Science?ref=87jnjsrQEx6guHcaq
+
+Certificate Link: https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_fbSLvnR6drhuDCmz4_1699243877040_completion_certificate.pdf
